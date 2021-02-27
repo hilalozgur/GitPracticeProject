@@ -7,3 +7,6 @@ print("ikinci text")
 print("added text")
 
 print("added for new side branch")
+
+for i in range(0,10):
+    print(i)
